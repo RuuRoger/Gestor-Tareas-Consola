@@ -14,10 +14,10 @@ public class DiasTareas
         {
             { "Lunes", new List<string>() },
             { "Martes", new List<string>() },
-            { "Miércoles", new List<string>() },
+            { "Miercoles", new List<string>() },
             { "Jueves", new List<string>() },
             { "Viernes", new List<string>() },
-            { "Sábado", new List<string>() },
+            { "Sabado", new List<string>() },
             { "Domingo", new List<string>() }
         };
     }

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Roger\\Proyectos Roger\\Gestor Tareas Consola\\Gestor Tareas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{812E2156-B945-4619-ABFB-755D8EBA8992}|Gestor Tareas.csproj|c:\\users\\roger\\proyectos roger\\gestor tareas consola\\gestor tareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{812E2156-B945-4619-ABFB-755D8EBA8992}|Gestor Tareas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{812E2156-B945-4619-ABFB-755D8EBA8992}|Gestor Tareas.csproj|c:\\users\\roger\\proyectos roger\\gestor tareas consola\\gestor tareas\\diastareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{812E2156-B945-4619-ABFB-755D8EBA8992}|Gestor Tareas.csproj|solutionrelative:diastareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{812E2156-B945-4619-ABFB-755D8EBA8992}|Gestor Tareas.csproj|c:\\users\\roger\\proyectos roger\\gestor tareas consola\\gestor tareas\\eliminartareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{812E2156-B945-4619-ABFB-755D8EBA8992}|Gestor Tareas.csproj|solutionrelative:eliminartareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812E2156-B945-4619-ABFB-755D8EBA8992}|Gestor Tareas.csproj|c:\\users\\roger\\proyectos roger\\gestor tareas consola\\gestor tareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812E2156-B945-4619-ABFB-755D8EBA8992}|Gestor Tareas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,40 +38,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EliminarTareas.cs",
               "DocumentMoniker": "C:\\Users\\Roger\\Proyectos Roger\\Gestor Tareas Consola\\Gestor Tareas\\EliminarTareas.cs",
               "RelativeDocumentMoniker": "EliminarTareas.cs",
               "ToolTip": "C:\\Users\\Roger\\Proyectos Roger\\Gestor Tareas Consola\\Gestor Tareas\\EliminarTareas.cs",
               "RelativeToolTip": "EliminarTareas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T19:26:52.262Z"
+              "WhenOpened": "2024-09-15T19:26:52.262Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DiasTareas.cs",
               "DocumentMoniker": "C:\\Users\\Roger\\Proyectos Roger\\Gestor Tareas Consola\\Gestor Tareas\\DiasTareas.cs",
               "RelativeDocumentMoniker": "DiasTareas.cs",
               "ToolTip": "C:\\Users\\Roger\\Proyectos Roger\\Gestor Tareas Consola\\Gestor Tareas\\DiasTareas.cs",
               "RelativeToolTip": "DiasTareas.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAQwFkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T19:18:25.604Z"
+              "WhenOpened": "2024-09-15T19:18:25.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Roger\\Proyectos Roger\\Gestor Tareas Consola\\Gestor Tareas\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Roger\\Proyectos Roger\\Gestor Tareas Consola\\Gestor Tareas\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T18:46:40.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T18:46:40.117Z"
             }
           ]
         },
