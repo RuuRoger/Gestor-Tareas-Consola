@@ -1,0 +1,17 @@
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.exe
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.deps.json
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.runtimeconfig.json
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.dll
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.pdb
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.csproj.AssemblyReference.cache
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.AssemblyInfoInputs.cache
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.AssemblyInfo.cs
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.csproj.CoreCompileInputs.cache
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\obj\Debug\net8.0\Gestor T.E4071A9A.Up2Date
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.dll
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\obj\Debug\net8.0\refint\Gestor Tareas.dll
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.pdb
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.genruntimeconfig.cache
+C:\Users\Roger\Proyectos Roger\Gestor Tareas Consola\Gestor Tareas\obj\Debug\net8.0\ref\Gestor Tareas.dll
